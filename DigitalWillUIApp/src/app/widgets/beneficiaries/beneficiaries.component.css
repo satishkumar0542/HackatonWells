@@ -1,0 +1,20 @@
+.button {
+    background-color: #D71E28;
+    border: none;
+    color: white;
+    padding: 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 50%;
+  }
+  
+  .button5 {border-radius: 75%;}
+
+  .example-card {
+    max-width: 400px;
+    margin-bottom: 8px;
+  }

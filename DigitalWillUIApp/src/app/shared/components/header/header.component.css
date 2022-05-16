@@ -1,0 +1,29 @@
+ul li{
+    list-style: none;
+}
+.example-spacer {
+    flex: 1 1 100%;
+  }
+  .ps-masthead {
+    width: 100%;
+    position: relative;
+    display: inline-flex;
+    height: 75px;
+    align-items: center;
+    background-color: #d71e28 !important;
+    border-bottom: 4px solid #ffcd41;
+}
+
+.headertitle{
+   
+        padding: 60px;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+}
+.headertitleBooks{
+     padding: 30px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+}

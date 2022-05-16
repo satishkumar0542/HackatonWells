@@ -1,0 +1,6 @@
+.example-tab-icon {
+    margin-right: 8px;
+  }
+  .mat-tab-label_new{
+    min-width: 100px !important;
+  }

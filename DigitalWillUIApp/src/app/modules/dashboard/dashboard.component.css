@@ -1,0 +1,10 @@
+mat-grid-tile {
+    background: lightgray
+  }
+
+  .dshcontainer{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    height: 80%;
+  }
